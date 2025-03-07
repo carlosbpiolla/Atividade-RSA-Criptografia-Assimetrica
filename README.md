@@ -62,8 +62,8 @@ Mensagem criptografada (maiúsculas) enviada ao cliente: [numeros]
 - Adicionar suporte a mensagens mais longas.
 
 ## Autor
-Carlos Baroni Piolla - 082200013
-Thiago Cardoso Hanna - 082200021
-Guilherme Silveira Cavinato - 082200032
-Bruna dos Santos Freitas - 082200015
+- Carlos Baroni Piolla - 082200013
+- Thiago Cardoso Hanna - 082200021
+- Guilherme Silveira Cavinato - 082200032
+- Bruna dos Santos Freitas - 082200015
 
